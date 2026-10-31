@@ -1,0 +1,14 @@
+# Honey, recompiled by 3dsrecomp port
+
+[package]
+name = "DQ8Recomp"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+zakuro = { path = "zakuro/crates/zakuro" }
+
+# a project of its own, whatever directory it sits in
+[workspace]
+exclude = ["zakuro"]
