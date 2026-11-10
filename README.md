@@ -79,7 +79,7 @@ It is closer to:
 
 > "Turn the 3DS version into a proper PC version."
 
-More I work on it, more I realize I can play for full test, so if you wanna help with the tests you're welcome: https://discord.gg/Qk8wvCvPU7
+More I work on it, more I realize I can't play for full test, so if you wanna help with the tests you're welcome: https://discord.gg/Qk8wvCvPU7
 
 ---
 
