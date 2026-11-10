@@ -161,20 +161,20 @@ The PC-specific modifications in this project are being built on top of that wor
 
 # Future Goals
 
-This first release is only a starting point.
+This first release was only a starting point.
 
 Some of the things I would eventually like to investigate include:
 
-- A complete single-screen PC interface.
-- Toggleable exploration map.
-- Redesigned battle HUD.
-- Better integration of battle commands and dialogue into the main screen.
-- Improved PC presentation.
-- Higher-quality rendering.
-- Performance improvements.
+- A complete single-screen PC interface. (almost done)
+- Toggleable exploration map. (done)
+- Redesigned battle HUD. (done)
+- Better integration of battle commands and dialogue into the main screen. (done)
+- Improved PC presentation. 
+- Higher-quality rendering. (don't know if possible)
+- Performance improvements. 
 - Investigation of true 60 FPS gameplay.
 - Additional quality-of-life improvements.
-- Better handling of content originally designed specifically around the two Nintendo 3DS screens.
+- Better handling of content originally designed specifically around the two Nintendo 3DS screens. (almost done)
 
 There is **no guarantee that all of these features will be implemented**.
 
