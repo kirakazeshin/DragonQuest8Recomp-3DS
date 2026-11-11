@@ -107,6 +107,8 @@ The objective is to adapt its presentation to PC.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6dff3ef5-e8ca-4fa6-b654-2b8a1943f125" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52da2462-2dba-4812-a851-5fd141f43eb1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f5bce1e-b9c7-4236-87a3-4f1a4a59eaee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b72b6cb-ebd5-4637-8ff4-5151afcf0e80" />
+
 
 
 ---
